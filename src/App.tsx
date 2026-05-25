@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import logoLimpitok from "./assets/logo-limpitok.jpeg";
 
 const WHATSAPP = "543364029927";
